@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\bin\Debug\Bitm_SEIP_Class_5.exe.config
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\bin\Debug\Bitm_SEIP_Class_5.exe
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\bin\Debug\Bitm_SEIP_Class_5.pdb
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.StudentInformationHome.resources
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.Properties.Resources.resources
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.exe
+C:\Users\Admin\Desktop\assignment5bitm\assignment5\Bitm_SEIP_Class_5\Bitm_SEIP_Class_5\obj\Debug\Bitm_SEIP_Class_5.pdb
